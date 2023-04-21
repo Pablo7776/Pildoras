@@ -28,8 +28,10 @@ namespace EjemploFinally
             {
                 if( archivo != null) archivo.Close();
 
-                Console.WriteLine("Conexión con el fichero cerrada");
+                Console.WriteLine("Conexión con el fichero cerrada 2");
             }
         }
     }
 }
+//hola
+//hola2
